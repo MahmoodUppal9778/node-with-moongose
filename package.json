@@ -1,0 +1,19 @@
+{
+  "name": "with-moongose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoodUppal9778/node-with-moongose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoodUppal9778/node-with-moongose/issues"
+  },
+  "homepage": "https://github.com/MahmoodUppal9778/node-with-moongose#readme"
+}
